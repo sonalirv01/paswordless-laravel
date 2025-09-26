@@ -6,7 +6,7 @@ Passwordless login is a method of login, which works without passwords or other 
 
 ## What is this repo?
 
-This repository is the example source code for [the article](https://bringyourownideas.com/blog/passwordless-login-with-laravel).
+This repository is the example source code for [the article](/passwordless-login-with-laravel.txt).
 
 ## Security Vulnerabilities
 
